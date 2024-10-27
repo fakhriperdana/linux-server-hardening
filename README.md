@@ -1,6 +1,6 @@
 # linux-server-hardening
 
-Basic linux server hardening
+Basic Linux server hardening scripts
 
 ## Prerequisites
 
